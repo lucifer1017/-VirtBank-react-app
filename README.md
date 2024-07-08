@@ -1,1 +1,1 @@
-# An amazing React basee responsive UI Virtual Banking web Application
+# An amazing React based responsive UI Virtual Banking web Application
